@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Ex001/Ex001.csproj" />
+  <Project Path="Ex001Tests/Ex001Tests.csproj" />
+  <Project Path="Ex002/Ex002.csproj" />
+  <Project Path="Ex002Tests/Ex002Tests.csproj" />
+  <Project Path="Ex003/Ex003.csproj" />
+  <Project Path="Ex003Tests/Ex003Tests.csproj" />
+  <Project Path="Ex004/Ex004.csproj" />
+  <Project Path="Ex004Tests/Ex004Tests.csproj" />
+</Solution>

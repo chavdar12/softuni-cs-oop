@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <None Include="capitals.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

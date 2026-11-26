@@ -1,0 +1,10 @@
+Tokyo
+37400068
+Delhi
+28514000
+Shanghai
+25582000
+Sao Paulo
+21650000
+Mexico City
+21581000

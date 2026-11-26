@@ -1,0 +1,11 @@
+﻿namespace Ex004;
+
+public class Car : Vehicle
+{
+    private const double DefaultFuelConsumption = 3;
+
+    protected Car(int horsePower, double fuel)
+        : base(horsePower, fuel) { }
+
+    public override double FuelConsumption => DefaultFuelConsumption;
+}
